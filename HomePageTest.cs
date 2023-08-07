@@ -37,7 +37,7 @@ namespace POM.Test.HomePageTest
         }
 
 
-        /*
+        
         [Test , Order(1)]
        public void DragAndDrop()
         {
@@ -53,7 +53,7 @@ namespace POM.Test.HomePageTest
             hp = new Assignment(driver);
             hp.Dopdown();
         }
-        */
+        
         [Test, Order(3)]
         public void UseTab()
         {
